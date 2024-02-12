@@ -23,8 +23,8 @@ Tested on:
 1. Chrome 90+
 
 - Open index.html on your text editor
-- Change <FAS Address> with your own FAS Server Address
-- Change <SIP Address> with your own SIP Address
+- Change "FAS Address" with your own FAS Server Address
+- Change "SIP Address" with your own SIP Address
 - Host the application on your web server of choice.
 - Open index.html on web browser
 - Click “Video Call” button
